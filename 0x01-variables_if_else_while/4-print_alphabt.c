@@ -7,7 +7,7 @@
  *
  * Return: Always 0 (Success)
 */
-iny main(void)
+int main(void)
 {
 	char ch = 'a';
 
